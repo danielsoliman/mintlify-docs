@@ -57,8 +57,19 @@
           },
           {
             "group": "BOOK 4: THE GREAT TRANSFORMATION",
+            "expanded": true,
             "pages": [
-              "chapter-1"
+              "essential-christianity/book-4/chapter-1",
+              "essential-christianity/book-4/chapter-2",
+              "essential-christianity/book-4/chapter-3",
+              "essential-christianity/book-4/chapter-4",
+              "essential-christianity/book-4/chapter-5",
+              "essential-christianity/book-4/chapter-6",
+              "essential-christianity/book-4/chapter-7",
+              "essential-christianity/book-4/chapter-8",
+              "essential-christianity/book-4/chapter-9",
+              "essential-christianity/book-4/chapter-10",
+              "essential-christianity/book-4/chapter-11"
             ]
           }
         ]
