@@ -97,5 +97,11 @@
      "perplexity"
    ]
   },
+  "redirects": [
+    {
+      "source": "/chapter-1",
+      "destination": "/essential-christianity/book-4/chapter-1"
+    }
+  ],
   "description": "Classics Revived"
 }
