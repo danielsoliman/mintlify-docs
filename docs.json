@@ -1,0 +1,90 @@
+{
+  "$schema": "https://mintlify.com/docs.json",
+  "theme": "mint",
+  "name": "POMPLIFIED",
+  "colors": {
+    "primary": "#16A34A",
+    "light": "#07C983",
+    "dark": "#15803D"
+  },
+  "favicon": "/favicon.svg",
+  "navigation": {
+    "tabs": [
+      {
+        "tab": "Essential Christianity",
+        "icon": "cross",
+        "pages": [
+          "essential-christianity/preface",
+          {
+            "group": "Book 1: MORAL CLUES",
+            "expanded": true,
+            "pages": [
+              "essential-christianity/book-1/chapter-1",
+              "essential-christianity/book-1/chapter-2",
+              "essential-christianity/book-1/chapter-3",
+              "essential-christianity/book-1/chapter-4",
+              "essential-christianity/book-1/chapter-5"
+            ]
+          },
+          {
+            "group": "BOOK 2: WHAT CHRISTIANS BELIEVE",
+            "expanded": true,
+            "pages": [
+              "essential-christianity/book-2/chapter-1",
+              "essential-christianity/book-2/chapter-2",
+              "essential-christianity/book-2/chapter-3",
+              "essential-christianity/book-2/chapter-4",
+              "essential-christianity/book-2/chapter-5"
+            ]
+          },
+          {
+            "group": "BOOK 3: CHRISTIAN BEHAVIOR",
+            "expanded": true,
+            "pages": [
+              "essential-christianity/book-3/chapter-1",
+              "essential-christianity/book-3/chapter-2",
+              "essential-christianity/book-3/chapter-3",
+              "essential-christianity/book-3/chapter-4",
+              "essential-christianity/book-3/chapter-5",
+              "essential-christianity/book-3/chapter-6",
+              "essential-christianity/book-3/chapter-7",
+              "essential-christianity/book-3/chapter-8",
+              "essential-christianity/book-3/chapter-9",
+              "essential-christianity/book-3/chapter-10",
+              "essential-christianity/book-3/chapter-11",
+              "essential-christianity/book-3/chapter-12"
+            ]
+          },
+          {
+            "group": "BOOK 4: THE GREAT TRANSFORMATION",
+            "pages": [
+              "chapter-1"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "logo": {
+    "light": "/logo/light.svg",
+    "dark": "/logo/dark.svg"
+  },
+  "navbar": {
+    "links": [],
+    "primary": {
+      "type": "button",
+      "label": "Home",
+      "href": "https://pomplified.mintlify.app"
+    }
+  },
+  "contextual": {
+    "options": [
+     "copy",
+     "view",
+     "chatgpt",
+     "claude",
+     "perplexity"
+   ]
+  },
+  "description": "Classics Revived"
+}
